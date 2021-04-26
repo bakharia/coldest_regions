@@ -1,0 +1,224 @@
+Entity,Code,World regions according to Maddison (Maddison (2010))
+Afghanistan,AFG,East Asia Maddison definition
+Albania,ALB,Eastern Europe Maddison definition
+Algeria,DZA,Africa Maddison definition
+American Samoa,ASM,East Asia Maddison definition
+Andorra,AND,Western Europe Maddison definition
+Angola,AGO,Africa Maddison definition
+Anguilla,AIA,Latin America Maddison definition
+Antigua and Barbuda,ATG,Latin America Maddison definition
+Argentina,ARG,Latin America Maddison definition
+Armenia,ARM,Eastern Europe Maddison definition
+Aruba,ABW,Latin America Maddison definition
+Australia,AUS,Western Offshoots Maddison definition
+Austria,AUT,Western Europe Maddison definition
+Azerbaijan,AZE,Eastern Europe Maddison definition
+Bahamas,BHS,Latin America Maddison definition
+Bahrain,BHR,Western Asia Maddison definition
+Bangladesh,BGD,East Asia Maddison definition
+Barbados,BRB,Latin America Maddison definition
+Belarus,BLR,Eastern Europe Maddison definition
+Belgium,BEL,Western Europe Maddison definition
+Belize,BLZ,Latin America Maddison definition
+Benin,BEN,Africa Maddison definition
+Bermuda,BMU,Latin America Maddison definition
+Bhutan,BTN,East Asia Maddison definition
+Bolivia,BOL,Latin America Maddison definition
+Bosnia and Herzegovina,BIH,Eastern Europe Maddison definition
+Botswana,BWA,Africa Maddison definition
+Brazil,BRA,Latin America Maddison definition
+British Virgin Islands,VGB,Latin America Maddison definition
+Brunei,BRN,East Asia Maddison definition
+Bulgaria,BGR,Eastern Europe Maddison definition
+Burkina Faso,BFA,Africa Maddison definition
+Burundi,BDI,Africa Maddison definition
+Cambodia,KHM,East Asia Maddison definition
+Cameroon,CMR,Africa Maddison definition
+Canada,CAN,Western Offshoots Maddison definition
+Cape Verde,CPV,Africa Maddison definition
+Cayman Islands,CYM,Latin America Maddison definition
+Central African Republic,CAF,Africa Maddison definition
+Chad,TCD,Africa Maddison definition
+Chile,CHL,Latin America Maddison definition
+China,CHN,East Asia Maddison definition
+Colombia,COL,Latin America Maddison definition
+Comoros,COM,Africa Maddison definition
+Congo,COG,Africa Maddison definition
+Cook Islands,COK,East Asia Maddison definition
+Costa Rica,CRI,Latin America Maddison definition
+Cote d'Ivoire,CIV,Africa Maddison definition
+Croatia,HRV,Eastern Europe Maddison definition
+Cuba,CUB,Latin America Maddison definition
+Cyprus,CYP,Western Europe Maddison definition
+Czechia,CZE,Eastern Europe Maddison definition
+Czechoslovakia,OWID_CZS,Eastern Europe Maddison definition
+Democratic Republic of Congo,COD,Africa Maddison definition
+Denmark,DNK,Western Europe Maddison definition
+Djibouti,DJI,Africa Maddison definition
+Dominica,DMA,Latin America Maddison definition
+Dominican Republic,DOM,Latin America Maddison definition
+Ecuador,ECU,Latin America Maddison definition
+Egypt,EGY,Africa Maddison definition
+El Salvador,SLV,Latin America Maddison definition
+Equatorial Guinea,GNQ,Africa Maddison definition
+Eritrea,ERI,Africa Maddison definition
+Estonia,EST,Eastern Europe Maddison definition
+Eswatini,SWZ,Africa Maddison definition
+Ethiopia,ETH,Africa Maddison definition
+Faeroe Islands,FRO,Western Europe Maddison definition
+Fiji,FJI,East Asia Maddison definition
+Finland,FIN,Western Europe Maddison definition
+France,FRA,Western Europe Maddison definition
+French Polynesia,PYF,East Asia Maddison definition
+Gabon,GAB,Africa Maddison definition
+Gambia,GMB,Africa Maddison definition
+Georgia,GEO,Eastern Europe Maddison definition
+Germany,DEU,Western Europe Maddison definition
+Ghana,GHA,Africa Maddison definition
+Gibraltar,GIB,Western Europe Maddison definition
+Greece,GRC,Western Europe Maddison definition
+Greenland,GRL,Western Europe Maddison definition
+Grenada,GRD,Latin America Maddison definition
+Guam,GUM,East Asia Maddison definition
+Guatemala,GTM,Latin America Maddison definition
+Guernsey,GGY,Western Europe Maddison definition
+Guinea,GIN,Africa Maddison definition
+Guinea-Bissau,GNB,Africa Maddison definition
+Guyana,GUY,Latin America Maddison definition
+Haiti,HTI,Latin America Maddison definition
+Honduras,HND,Latin America Maddison definition
+Hong Kong,HKG,East Asia Maddison definition
+Hungary,HUN,Eastern Europe Maddison definition
+Iceland,ISL,Western Europe Maddison definition
+India,IND,East Asia Maddison definition
+Indonesia,IDN,East Asia Maddison definition
+Iran,IRN,Western Asia Maddison definition
+Iraq,IRQ,Western Asia Maddison definition
+Ireland,IRL,Western Europe Maddison definition
+Isle of Man,IMN,Western Europe Maddison definition
+Israel,ISR,Western Asia Maddison definition
+Italy,ITA,Western Europe Maddison definition
+Jamaica,JAM,Latin America Maddison definition
+Japan,JPN,East Asia Maddison definition
+Jersey,JEY,Western Europe Maddison definition
+Jordan,JOR,Western Asia Maddison definition
+Kazakhstan,KAZ,Eastern Europe Maddison definition
+Kenya,KEN,Africa Maddison definition
+Kiribati,KIR,East Asia Maddison definition
+Kosovo,OWID_KOS,Africa Maddison definition
+Kuwait,KWT,Western Asia Maddison definition
+Kyrgyzstan,KGZ,Eastern Europe Maddison definition
+Laos,LAO,East Asia Maddison definition
+Latvia,LVA,Eastern Europe Maddison definition
+Lebanon,LBN,Western Asia Maddison definition
+Lesotho,LSO,Africa Maddison definition
+Liberia,LBR,Africa Maddison definition
+Libya,LBY,Africa Maddison definition
+Liechtenstein,LIE,Western Europe Maddison definition
+Lithuania,LTU,Eastern Europe Maddison definition
+Luxembourg,LUX,Western Europe Maddison definition
+Macao,MAC,East Asia Maddison definition
+Madagascar,MDG,Africa Maddison definition
+Malawi,MWI,Africa Maddison definition
+Malaysia,MYS,East Asia Maddison definition
+Maldives,MDV,East Asia Maddison definition
+Mali,MLI,Africa Maddison definition
+Malta,MLT,Western Europe Maddison definition
+Marshall Islands,MHL,East Asia Maddison definition
+Mauritania,MRT,Africa Maddison definition
+Mauritius,MUS,Africa Maddison definition
+Mexico,MEX,Latin America Maddison definition
+Micronesia,,East Asia Maddison definition
+Moldova,MDA,Eastern Europe Maddison definition
+Monaco,MCO,Western Europe Maddison definition
+Mongolia,MNG,East Asia Maddison definition
+Montenegro,MNE,Africa Maddison definition
+Montserrat,MSR,Latin America Maddison definition
+Morocco,MAR,Africa Maddison definition
+Mozambique,MOZ,Africa Maddison definition
+Myanmar,MMR,East Asia Maddison definition
+Namibia,NAM,Africa Maddison definition
+Nauru,NRU,East Asia Maddison definition
+Nepal,NPL,East Asia Maddison definition
+Netherlands,NLD,Western Europe Maddison definition
+Netherlands Antilles,ANT,Latin America Maddison definition
+New Caledonia,NCL,East Asia Maddison definition
+New Zealand,NZL,Western Offshoots Maddison definition
+Nicaragua,NIC,Latin America Maddison definition
+Niger,NER,Africa Maddison definition
+Nigeria,NGA,Africa Maddison definition
+North Korea,PRK,East Asia Maddison definition
+North Macedonia,MKD,Eastern Europe Maddison definition
+Northern Mariana Islands,MNP,East Asia Maddison definition
+Norway,NOR,Western Europe Maddison definition
+Oman,OMN,Western Asia Maddison definition
+Pakistan,PAK,East Asia Maddison definition
+Palau,PLW,East Asia Maddison definition
+Palestine,PSE,Western Asia Maddison definition
+Panama,PAN,Latin America Maddison definition
+Papua New Guinea,PNG,East Asia Maddison definition
+Paraguay,PRY,Latin America Maddison definition
+Peru,PER,Latin America Maddison definition
+Philippines,PHL,East Asia Maddison definition
+Poland,POL,Eastern Europe Maddison definition
+Portugal,PRT,Western Europe Maddison definition
+Puerto Rico,PRI,Latin America Maddison definition
+Qatar,QAT,Western Asia Maddison definition
+Romania,ROU,Eastern Europe Maddison definition
+Russia,RUS,Eastern Europe Maddison definition
+Rwanda,RWA,Africa Maddison definition
+Saint Kitts and Nevis,KNA,Latin America Maddison definition
+Saint Lucia,LCA,Latin America Maddison definition
+Saint Pierre and Miquelon,SPM,Latin America Maddison definition
+Saint Vincent and the Grenadines,VCT,Latin America Maddison definition
+Samoa,WSM,East Asia Maddison definition
+San Marino,SMR,Western Europe Maddison definition
+Sao Tome and Principe,STP,Africa Maddison definition
+Saudi Arabia,SAU,Western Asia Maddison definition
+Senegal,SEN,Africa Maddison definition
+Serbia,SRB,Eastern Europe Maddison definition
+Seychelles,SYC,Africa Maddison definition
+Sierra Leone,SLE,Africa Maddison definition
+Singapore,SGP,East Asia Maddison definition
+Slovakia,SVK,Eastern Europe Maddison definition
+Slovenia,SVN,Eastern Europe Maddison definition
+Solomon Islands,SLB,East Asia Maddison definition
+Somalia,SOM,Africa Maddison definition
+South Africa,ZAF,Africa Maddison definition
+South Korea,KOR,East Asia Maddison definition
+Spain,ESP,Western Europe Maddison definition
+Sri Lanka,LKA,East Asia Maddison definition
+Sudan,SDN,Africa Maddison definition
+Suriname,SUR,Latin America Maddison definition
+Sweden,SWE,Western Europe Maddison definition
+Switzerland,CHE,Western Europe Maddison definition
+Syria,SYR,Western Asia Maddison definition
+Taiwan,TWN,East Asia Maddison definition
+Tajikistan,TJK,Eastern Europe Maddison definition
+Tanzania,TZA,Africa Maddison definition
+Thailand,THA,East Asia Maddison definition
+Timor,TLS,East Asia Maddison definition
+Togo,TGO,Africa Maddison definition
+Tonga,TON,East Asia Maddison definition
+Trinidad and Tobago,TTO,Latin America Maddison definition
+Tunisia,TUN,Africa Maddison definition
+Turkey,TUR,Western Asia Maddison definition
+Turkmenistan,TKM,Eastern Europe Maddison definition
+Turks and Caicos Islands,TCA,Latin America Maddison definition
+Tuvalu,TUV,East Asia Maddison definition
+Uganda,UGA,Africa Maddison definition
+Ukraine,UKR,Eastern Europe Maddison definition
+United Arab Emirates,ARE,Western Asia Maddison definition
+United Kingdom,GBR,Western Europe Maddison definition
+United States,USA,Western Offshoots Maddison definition
+United States Virgin Islands,VIR,Latin America Maddison definition
+Uruguay,URY,Latin America Maddison definition
+Uzbekistan,UZB,Eastern Europe Maddison definition
+Vanuatu,VUT,East Asia Maddison definition
+Venezuela,VEN,Latin America Maddison definition
+Vietnam,VNM,East Asia Maddison definition
+Wallis and Futuna,WLF,East Asia Maddison definition
+Yemen,YEM,Western Asia Maddison definition
+Yugoslavia,OWID_YGS,Eastern Europe Maddison definition
+Zambia,ZMB,Africa Maddison definition
+Zimbabwe,ZWE,Africa Maddison definition
